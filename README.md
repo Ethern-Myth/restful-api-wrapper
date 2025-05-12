@@ -163,5 +163,5 @@ MIT License. Feel free to use, modify, and share.
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**Ethern Myth**  
 [GitHub](https://github.com/Ethern-Myth)
